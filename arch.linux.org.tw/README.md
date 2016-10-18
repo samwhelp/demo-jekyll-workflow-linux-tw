@@ -15,7 +15,7 @@
 
 ## 相關網址
 
-* http://l10n.tw/
+* http://arch.linux.org.tw/
 * http://linux-taiwan.github.io/arch.linux.org.tw
 * https://github.com/linux-taiwan/arch.linux.org.tw
 * https://github.com/linux-taiwan/arch.linux.org.tw/issues
