@@ -9,18 +9,18 @@ usage()
 	echo
 	cat <<EOF
 Ex:
-$ make prepare
 
 $ make rbenv-install
 $ make rbenv-update
 
+$ make ruby-build-dep
 $ make ruby-install
 
 $ make jekyll-install
 
 $ make bundle-install
 
-$ make create
+$ make blog-create
 $ make serve
 $ make build
 $ make add
