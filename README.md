@@ -1,6 +1,11 @@
 # demo-jekyll-workflow-linux-tw
 
 
+## 相關討論
+
+* 討論這篇「邁向永續的臺灣桌面應用自由軟體在地發展」/ [#2](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=355326#forumpost355326)
+
+
 ## 基礎專案
 
 * [demo-jekyll-workflow](https://github.com/samwhelp/demo-jekyll-workflow)
