@@ -20,4 +20,6 @@ fi
 ## 切換到根資料夾
 cd $THE_ROOT_DIR_PATH
 
-git clone $THE_SOURCE_GIT_URL $THE_SOURCE_DIR_PATH
+## git clone $THE_SOURCE_GIT_URL $THE_SOURCE_DIR_PATH
+## for bootstrap https://github.com/linux-taiwan/arch.linux.org.tw/blob/master/.gitmodules
+git clone --recursive $THE_SOURCE_GIT_URL $THE_SOURCE_DIR_PATH
